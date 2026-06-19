@@ -8,7 +8,6 @@
 
 [![Version](https://img.shields.io/badge/version-0.5.24-blue)](https://npm.0ldm0s.net)
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-green)](#快速安装)
-[![License](https://img.shields.io/badge/ license-闭源专有-red)](#权利声明)
 [![QQ Group](https://img.shields.io/badge/QQ群-EVA交流-orange)](https://0ldm0s.net)
 
 [功能亮点](#功能亮点) · [快速安装](#快速安装) · [文档](#文档) · [官网](https://0ldm0s.net/eva-cli)
