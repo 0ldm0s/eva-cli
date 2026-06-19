@@ -1,21 +1,12 @@
-MIT License
+权利声明
 
-Copyright (c) 2026 0ldm0s
+Copyright (c) 2026 0ldm0s. All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+本仓库仅包含 EVA-CLI 产品的公开文档、教程和辅助脚本。
+这些内容可自由查阅、引用用于了解和学习 EVA-CLI。
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+EVA-CLI 软件本身（包括但不限于源代码、二进制文件、图标、界面设计）
+为闭源专有产品，未经著作权人书面授权，不得复制、修改、分发、
+逆向工程或用于任何商业用途。
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+如需获取授权或有其他疑问，请联系：https://0ldm0s.net

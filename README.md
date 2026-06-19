@@ -8,7 +8,7 @@
 
 [![Version](https://img.shields.io/badge/version-0.5.24-blue)](https://npm.0ldm0s.net)
 [![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20macOS%20%7C%20Windows-green)](#快速安装)
-[![License](https://img.shields.io/badge/license-MIT-yellow)](LICENSE)
+[![License](https://img.shields.io/badge/ license-闭源专有-red)](#权利声明)
 [![QQ Group](https://img.shields.io/badge/QQ群-EVA交流-orange)](https://0ldm0s.net)
 
 [功能亮点](#功能亮点) · [快速安装](#快速安装) · [文档](#文档) · [官网](https://0ldm0s.net/eva-cli)
@@ -101,11 +101,11 @@ eva
 
 ---
 
-## License
+## 权利声明
 
-本项目（文档、脚本、配置）采用 [MIT License](LICENSE)。
+本仓库中的文档、教程和安装脚本可自由查阅和引用。
 
-EVA-CLI 软件本身为独立产品，相关权益详见[官网声明](https://0ldm0s.net/eva-cli/about)。
+EVA-CLI 软件本身为闭源专有产品，未经授权不得复制、分发或二次开发。详情参见[官网](https://0ldm0s.net/eva-cli/about)。
 
 ---
 
